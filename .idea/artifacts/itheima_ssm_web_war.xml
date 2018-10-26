@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itheima-ssm-web:war">
+    <output-path>$PROJECT_DIR$/itheima-ssm-web/target</output-path>
+    <root id="archive" name="itheima-ssm-web.war">
+      <element id="artifact" artifact-name="itheima-ssm-web:war exploded" />
+    </root>
+  </artifact>
+</component>

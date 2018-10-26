@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itheima-ssm.iml" filepath="$PROJECT_DIR$/itheima-ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-ssm-dao/itheima-ssm-dao.iml" filepath="$PROJECT_DIR$/itheima-ssm-dao/itheima-ssm-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-ssm-domain/itheima-ssm-domain.iml" filepath="$PROJECT_DIR$/itheima-ssm-domain/itheima-ssm-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-ssm-service/itheima-ssm-service.iml" filepath="$PROJECT_DIR$/itheima-ssm-service/itheima-ssm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-ssm-utils/itheima-ssm-utils.iml" filepath="$PROJECT_DIR$/itheima-ssm-utils/itheima-ssm-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-ssm-web/itheima-ssm-web.iml" filepath="$PROJECT_DIR$/itheima-ssm-web/itheima-ssm-web.iml" />
+    </modules>
+  </component>
+</project>
